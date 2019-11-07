@@ -601,6 +601,10 @@ input[type="submit"]:hover
         background-color: #16162d;
     }
 
+    .top-nav.open
+    {
+        position: fixed;
+    }
     .landing-text h1
     {
         font-size: 15rem;
