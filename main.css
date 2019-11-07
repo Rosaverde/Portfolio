@@ -595,15 +595,10 @@ input[type="submit"]:hover
 
 @media only screen and (max-width: 1366px)
 {
-    body
-    {
-        background: url("images/sitebg2.jpg") no-repeat center fixed;
-        background-size: cover;
-    }
-
     .top-nav
     {
         height: 100vh;
+        background-color: #16162d;
     }
 
     .landing-text h1
